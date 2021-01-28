@@ -1,10 +1,10 @@
 <template>
-  <img alt="logo" src="assets/logo.png" />
+  <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld msg="Hello Vue 3 in CodeSandbox!" />
 </template>
 
 <script>
-import HelloWorldVue from "./components/HelloWorld.vue";
+import queryAspectVue from "./components/HelloWorld.vue";
 export default {
   name: "App",
   components: {
